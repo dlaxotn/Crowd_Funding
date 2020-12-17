@@ -1,6 +1,10 @@
 # Crowd_Funding
 클라우드 펀딩 관련 웹 개발 프로젝트
- JAVA Bean, JSP 를 이용한 웹 개발 
+
+- 프론트 : HTML, CSS, JS
+- 백엔드 : JAVA Bean, JSP, 
+- 서버 : Oracle DB
+ 
  
 주요 기능 
   - 엑터 : 일반회원, 창작자, 관리자
